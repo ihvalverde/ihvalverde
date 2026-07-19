@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Iara Hatsumy Valverde
 
-<!--
-**ihvalverde/ihvalverde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Estudiante de Ingeniería Informática | Front-End Developer
 
-Here are some ideas to get you started:
+Soy estudiante de Ingeniería Informática con interés en el desarrollo web y la creación de interfaces modernas, intuitivas y funcionales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente desarrollo proyectos utilizando HTML, CSS, JavaScript, React, PHP, Java y MySQL. Me gusta aprender nuevas tecnologías y construir aplicaciones que resuelvan problemas reales.
+
+🌱 Actualmente aprendiendo:
+- React
+- Tailwind CSS
+- Desarrollo Front-End
+
+🎯 Objetivo:
+Convertirme en Front-End Developer y seguir creciendo como desarrolladora de software.
+
+---
