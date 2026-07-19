@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Banner de Iara Hatsumy Valverde Briceño" width="100%">
+</p>
+
+
 # ¡Hola! 👋 Soy Iara Hatsumy Valverde
 
 ### 💻 Estudiante de Ingeniería Informática | Front-End Developer
