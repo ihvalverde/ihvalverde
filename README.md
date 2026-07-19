@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner de Iara Hatsumy Valverde Briceño" width="100%">
+  <img src="Banner.png" alt="Banner de Iara Hatsumy Valverde Briceño" width="100%">
 </p>
 
 
