@@ -33,3 +33,7 @@ Convertirme en Front-End Developer y seguir creciendo como desarrolladora de sof
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ihvalverde&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihvalverde&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ihvalverde&theme=tokyonight&hide_border=true" />
+</p>
