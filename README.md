@@ -20,3 +20,9 @@ Actualmente desarrollo proyectos utilizando HTML, CSS, JavaScript, React, PHP, J
 Convertirme en Front-End Developer y seguir creciendo como desarrolladora de software.
 
 ---
+
+## 🛠️ Tecnologías y Herramientas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,java,python,php,mysql,git,github,vscode,figma,flutter" />
+</p>
