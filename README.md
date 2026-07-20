@@ -29,6 +29,6 @@ Convertirme en Front-End Developer y seguir creciendo como desarrolladora de sof
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-nu.vercel.app/api?username=ihvalverde&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="170" alt="Estadísticas de ihvalverde" />
-  <img src="https://github-readme-stats-eight-nu.vercel.app/api/top-langs/?username=ihvalverde&layout=compact&theme=tokyonight&hide_border=true&locale=es" height="170" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ihvalverde&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="170" alt="Estadísticas de ihvalverde" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ihvalverde&layout=compact&theme=tokyonight&hide_border=true&locale=es" height="170" alt="Lenguajes más usados" />
 </p>
